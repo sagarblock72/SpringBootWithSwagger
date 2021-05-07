@@ -12,4 +12,8 @@ public class HelloController {
 		return "hello";
 	}
 
+        public void doprocess(){
+           int var a;
+             }
+
 }
