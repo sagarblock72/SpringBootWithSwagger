@@ -20,4 +20,8 @@ public class HelloController {
            int var a;
              }
 
+           public void doprocesdsaes(){
+           int var a;
+             }
+
 }
