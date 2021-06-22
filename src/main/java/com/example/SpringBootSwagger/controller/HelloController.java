@@ -15,5 +15,13 @@ public class HelloController {
         public void doprocess(){
            int var a;
              }
+	
+	 public void doprocesdes(){
+           int var a;
+             }
+
+           public void doprocesdsaes(){
+           int var a;
+             }
 
 }
